@@ -12,34 +12,32 @@
 
 6. Clustering_analysis
 
-7. Confidence_interval_answers
+7. Decision_Tree
 
-8. Decision_Tree
+8. EDA1
 
-9. EDA1
+9. EDA2
 
-10. EDA2
+10. Hypothesis_Testing
 
-11. Hypothesis_Testing
+11. KNN
 
-12. KNN
+12. Linear_regression
 
-13. Linear_regression
+13. Logistic_Regression
 
-14. Logistic_Regression
+14. Multiple_linear_regression
 
-15. Multiple_linear_regression
+15. Naive_Bayes_NLP
 
-16. Naive_Bayes_NLP
+16. Neural_Networks
 
-17. Neural_Networks
+17. Outlier_detection
 
-18. Outlier_detection
+18. PCA
 
-19. PCA
+19. Random_forest
 
-20. Random_forest
+20. SVM
 
-21. SVM
-
-22. XGBM_LGBM
+21. XGBM_LGBM
